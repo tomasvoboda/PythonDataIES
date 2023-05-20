@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/OneDrive%20-%20FSV/IES%20bc/Data%20Proccesing%20in%20Python/PythonDataIES/mlruns/0/edda068cdbdd4d458cd4b117feb826ca/artifacts
+end_time: 1684507067644
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edda068cdbdd4d458cd4b117feb826ca
+run_name: dashing-boar-598
+run_uuid: edda068cdbdd4d458cd4b117feb826ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684507056238
+status: 3
+tags: []
+user_id: svobo

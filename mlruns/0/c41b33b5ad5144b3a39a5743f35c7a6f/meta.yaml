@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/OneDrive%20-%20FSV/IES%20bc/Data%20Proccesing%20in%20Python/PythonDataIES/mlruns/0/c41b33b5ad5144b3a39a5743f35c7a6f/artifacts
+end_time: 1684503860664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c41b33b5ad5144b3a39a5743f35c7a6f
+run_name: masked-kit-726
+run_uuid: c41b33b5ad5144b3a39a5743f35c7a6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684503860575
+status: 4
+tags: []
+user_id: svobo

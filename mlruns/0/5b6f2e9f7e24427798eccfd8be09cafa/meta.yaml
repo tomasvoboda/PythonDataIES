@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/OneDrive%20-%20FSV/IES%20bc/Data%20Proccesing%20in%20Python/PythonDataIES/mlruns/0/5b6f2e9f7e24427798eccfd8be09cafa/artifacts
+end_time: 1684504310001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b6f2e9f7e24427798eccfd8be09cafa
+run_name: clumsy-cat-421
+run_uuid: 5b6f2e9f7e24427798eccfd8be09cafa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684504296606
+status: 3
+tags: []
+user_id: svobo
